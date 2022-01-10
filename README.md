@@ -16,6 +16,8 @@ This class is made to set up the jungle/forest background that can be seen in th
 ###### Dinosaur Class:
 
 This class is made to create the green dinosaur that the user plays as. Only one dinosaur object is created in frame. It was originally created in pixilart.com, and it was custom drawn by me.
+![4892843bb6f725d](https://user-images.githubusercontent.com/90793175/148822474-2b6a9513-c408-4bf4-8af9-8813520255f1.gif)
+
 
 **Plant Class:**
 
