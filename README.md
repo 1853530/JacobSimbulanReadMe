@@ -22,14 +22,18 @@ This class is made to create the green dinosaur that the user plays as. Only one
 **Plant Class:**
 
 This class is made for the piranha plants, one of the objects that the player has to evade. Similar to the dinosaur, only one plant object is created in frame. However, several loops are placed in the code that makes it seem like there is an endless amount of piranha plants that spawn after the user jumps over one. It was originally created in pixilart.com, and it was custom drawn by me.
+![60e35049feb3497](https://user-images.githubusercontent.com/90793175/148823150-ad626640-8153-459a-990e-55f6ac71a1e4.png)
+
 
 **Bird Class:**
 
 This class is made for the blue birds, another obstacle that the user has to avoid. There is only one bird object created in frame, but also includes loops that makes it seem like there is an infinite number of birds that appear after the dinosaur clears one. It was originally created in pixilart.com, and it was custom drawn by me.
+![7010c4ed1e1564c](https://user-images.githubusercontent.com/90793175/148823328-d6be1b18-4131-4c83-b4f0-ecf9abd8add6.gif)
 
 **Paint Method:**
 
 This class is responsible for drawing all the objects to the screen. It is also in charge of updating all the behaviors of the objects, and what they need to do. This is why the lines of code that create the collision of the game are included underneath the paint method.
+[https://drive.google.com/file/d/1EbvUMYjyc4-CGSrxMrBzsaQk51sg8OCj/view](url)
 
 **Collision:**
 
