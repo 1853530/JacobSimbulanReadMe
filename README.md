@@ -38,10 +38,12 @@ This class is responsible for drawing all the objects to the screen. It is also 
 **Collision:**
 
 Collisions between the dinosaur and the various obstacles are a very important factor in this game. This is because when the dinosaur comes in contact with either the plants or the birds, the game stops and the user's score is reset to 0. Collisions are coded by using if statements that check to see whether or not the position of the dinosaur is overlying the position of either the plant or the bird.
+![IMG_3750](https://user-images.githubusercontent.com/90793175/148826911-6d63e208-200c-4538-b83a-5facf8c434fc.jpeg)
 
 **How objects are created:**
 
 The objects in the game are created under Frame(). The individual objects in my game are created regularly without any for loops.
+
 
 **Support:**
 
