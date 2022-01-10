@@ -52,7 +52,7 @@ For support you can speak to Mr. David, my AP Computer Science teacher.
 
 **Roadmap:**
 
-If any future updates were to happen, I would most likely add power-ups that the dinosaur can use throughout the game. Some ideas that I have for power-ups that I could incorporate into the game would be a power-up that makes the dinosaur invincible to all the objects for a few seconds, a power-up that allows the dinosaur to shoot laser beams from its eyes or fireballs from its mouth that can defeat the objects for a short time, and a power-up that makes the dinosaur grow bigger and stronger. With this power-up it would take three hits for the obstacles to kill the dinosaur. I think it would also be nice to have the background of the game change every so often as the dinosaur is running.
+If any future updates were to happen, I would most likely add power-ups that the dinosaur can use throughout the game. Some ideas that I have for power-ups that I could incorporate into the game would be a power-up that makes the dinosaur invincible to all the objects for a few seconds, a power-up that allows the dinosaur to shoot laser beams from its eyes or fireballs from its mouth that can be used to shoot and kill the plants and birds for a short time, and a power-up that makes the dinosaur grow significantly bigger and stronger. With this power-up, it would take three hits from the obstacles to kill the dinosaur. I think it would also be nice to have the background of the game change every so often as the dinosaur is running.
 
 **Contributions:**
 
