@@ -33,7 +33,7 @@ This class is made for the blue birds, another obstacle that the user has to avo
 **Paint Method:**
 
 This class is responsible for drawing all the objects to the screen. It is also in charge of updating all the behaviors of the objects, and what they need to do. This is why the lines of code that create the collision of the game are included underneath the paint method.
-[https://drive.google.com/file/d/1EbvUMYjyc4-CGSrxMrBzsaQk51sg8OCj/view](url)
+
 
 **Collision:**
 
