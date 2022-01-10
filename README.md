@@ -12,6 +12,7 @@ Left button on the mouse = Makes the dinosaur jump up and down.
 ##### Background Class:
 
 This class is made to set up the jungle/forest background that can be seen in the game.
+![pixel-art-wallpaper-gif-13](https://user-images.githubusercontent.com/90793175/148827395-6e0282a3-b0e5-4208-98af-d1dbf8ee5ac4.gif)
 
 ###### Dinosaur Class:
 
