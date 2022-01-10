@@ -43,7 +43,7 @@ Collisions between the dinosaur and the various obstacles are a very important f
 **How objects are created:**
 
 The objects in the game are created under Frame(). The individual objects in my game are created regularly without any for loops.
-
+![IMG_3756](https://user-images.githubusercontent.com/90793175/148827163-e5d30024-69f3-4c3d-88de-ed48550e95e2.jpeg)
 
 **Support:**
 
